@@ -94,10 +94,10 @@ Our goal was to provide businesses with a comprehensive, reliable, and scalable 
 
 ## How to Run the Project  
 
-1. Clone the repository from [GitHub](https://github.com/your-repo-link).  
+1. Clone the repository from [GitHub](https://github.com/ashikur498/Invenory_Management_System.git).  
 2. Set up the database by importing the provided SQL schema.  
 3. Configure database connection details in the project files.  
-4. Open the project in an IDE (e.g., Eclipse).  
+4. Open the project in an IDE (e.g., Eclipse/netbeans).  
 5. Compile and run the application.  
 
 ---
@@ -108,13 +108,13 @@ Below is a step-by-step simulation of the **Inventory Management System (IMS)** 
 
 ### 1. **Login Screen**  
 The application begins with a secure login screen where users can authenticate themselves by entering their credentials.  
-![Login Screen](screenshots/login.png)  
+![Login Screen](screenshots/login.PNG)  
 
 ---
 
 ### 2. **Home Page**  
 After successful login, the user is redirected to the **Home Page**, which acts as a dashboard for accessing all the core features of the system.  
-![Home Page](screenshots/home.png)  
+![Home Page](screenshots/home.PNG)  
 
 ---
 
@@ -124,7 +124,7 @@ The **Manage Categories** feature allows users to add, edit, or remove product c
 - Add a new category by entering its name.  
 - Edit or delete existing categories with ease.  
 
-![Manage Categories](screenshots/manage_categories.png)  
+![Manage Categories](screenshots/category.PNG)  
 
 ---
 
@@ -135,7 +135,7 @@ Users can add, update, or delete product information in the **Manage Products** 
 - Update stock levels.  
 - Remove obsolete products.  
 
-![Manage Products](screenshots/manage_products.png)  
+![Manage Products](screenshots/product.PNG)  
 
 ---
 
@@ -146,7 +146,7 @@ This module provides tools to manage customer information, including their name,
 - Edit customer details.  
 - Delete unnecessary records.  
 
-![Manage Customers](screenshots/manage_customers.png)  
+![Manage Customers](screenshots/customer.PNG)  
 
 ---
 
@@ -158,7 +158,7 @@ The **Create Order** feature allows employees to:
 
 Once the order is finalized, a receipt is generated.  
 
-![Create Order](screenshots/create_order.png)  
+![Create Order](screenshots/order.PNG)  
 
 ---
 
@@ -169,7 +169,7 @@ The **View Orders** module displays a comprehensive list of all previous transac
 - Order date  
 - Total amount  
 
-![View Orders](screenshots/view_orders.png)  
+![View Orders](screenshots/vieworder.PNG)  
 
 ---
 
@@ -180,7 +180,7 @@ After creating an order, the system automatically generates a detailed receipt i
 - Product details (name, quantity, price)  
 - Grand total  
 
-![Receipt](screenshots/receipt.png)  
+![Receipt](screenshots/receipt.PNG)  
 
 ---
 
@@ -191,23 +191,17 @@ The **Manage Users** module enables admins to add, edit, or remove employees who
 - Update user roles (e.g., Admin, Employee).  
 - Remove users who no longer need access.  
 
-![Manage Users](screenshots/manage_users.png)  
+![Manage Users](screenshots/users.PNG)  
 
 ---
 
 ### 10. **System Exit**  
 The user can log out or exit the system securely via the home screen.  
-![System Exit](screenshots/system_exit.png)  
+ 
 
 ---
 
-### Notes  
-To include screenshots in the simulation:  
-1. Create a `screenshots/` folder in your GitHub repository.  
-2. Upload screenshots for each feature with filenames matching the placeholders (e.g., `login.png`, `home.png`, `manage_products.png`, etc.).  
-3. Verify the images render correctly in the README by checking the links.  
 
----
 
 ## Future Enhancements  
 
@@ -216,8 +210,20 @@ The system can be enhanced by:
 - Implementing advanced algorithms for demand forecasting.  
 - Adding support for multi-language interfaces.  
 
----
+
 
 ## Acknowledgements  
 
-We would like to express our gratitude to our supervisor **Nadia Binte Asif**, Lecturer at the Department of CSE, BUB
+We would like to thank:  
+- **Our Supervisor** **Labiba Farah* For her guidance and support throughout the project.  
+- **Bangladesh University of Business and Technology**: For providing the platform and resources to develop this project.  
+
+---
+
+## Contributors  
+
+- **Md. Ashikur Rahman**
+- **Tasmiah Binte Azad**
+- **Ayesha Siddika Esha**
+- **MD. Nahidujaman**
+
