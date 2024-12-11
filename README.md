@@ -215,7 +215,7 @@ The system can be enhanced by:
 ## Acknowledgements  
 
 We would like to thank:  
-- **Our Supervisor** ****Labiba Farah***, Lecturer, Department of CSE ,BUBT For her guidance and support throughout the project.  
+- **Our Supervisor** ***Labiba Farah***, Lecturer, Department of CSE ,BUBT For her guidance and support throughout the project.  
 - **Bangladesh University of Business and Technology**: For providing the platform and resources to develop this project.  
 
 ---
